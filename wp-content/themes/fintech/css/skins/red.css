@@ -1,0 +1,114 @@
+body .cg-announcements,
+body .wpcf7 input.wpcf7-submit,
+body .container .mc4wp-form input[type="submit"],
+body .first-footer .inner-widget-wrap .button a,
+body #respond input#submit,
+body #secondary:before {
+	background-color: #ed4a2f;
+}
+
+body .model-1 .spinner {
+	color: #ed4a2f;
+}
+
+body .menu > li.button.see-through > a span,
+body .menu > li.button.see-through > a:hover span {
+	border-color: #00c96d;
+	color: #00c96d;
+}
+
+.ls-slide .slider-button {
+    background-color: #00c96d !important;
+}
+
+body .cg-announcements, 
+body .cg-announcements a, 
+body .cg-announcements a:hover, 
+body .activate-mobile-search i {
+	color: #fff;
+}
+
+body a,
+body .cg-menu-below .cg-extras .cg-header-details i,
+body .content-area .entry-content blockquote:before {
+	color: #ed4a2f;
+}
+
+body a,
+body.single-post.cgtoolkit #primary article.type-post .entry-content > p:first-of-type:first-letter,
+body #secondary .widget_recent_entries ul li a,
+body #secondary .advanced-sidebar-menu ul li a:after,
+body .cg-header-fixed .menu > li:hover > a, 
+body .cg-primary-menu .menu > li:hover > a, 
+body .cg-primary-menu-below-wrapper .menu > li.current_page_item > a, 
+body .cg-primary-menu-below-wrapper .menu > li.current-page-ancestor > a, 
+body .cg-primary-menu-below-wrapper .menu > li.current_page_parent > a, 
+body .cg-header-fixed .menu > li.current-page-ancestor > a, 
+body .cg-header-fixed .menu > li.current_page_parent > a {
+	color: #cd270b;
+}
+
+body .mobile-search-reveal, body .cg-announcements ul li a:hover,
+body .blog-pagination ul li.active a {
+    background-color: #cd270b;
+}
+
+body .menu > li.menu-full-width .cg-submenu-ddown {
+	background-color: #333;
+}
+
+body .content-area .blog-pagination ul li a:hover,
+body .blog-pagination ul li.active a {
+	border-color: #cd270b;
+}
+
+body .content-area .grid-news article:hover h2 a,
+body .content-area .blog-pagination ul li a:hover,
+body.cgtoolkit .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul > li > a:hover, 
+body .cg-primary-menu .menu > li .cg-submenu-ddown .container > ul .menu-item-has-children .cg-submenu ul > li > a:hover {
+	color: #cd270b;
+}
+
+body .content-area .blog-pagination ul li.active a:hover {
+	color: #fff;
+}
+
+.content-area .entry-content .homepage-form p.signature span,
+.vc_custom_1459251841324 h4 span {
+	color: #ed4a2f !important;
+}
+
+.content-area .homepage-form h2 span {
+	color: #111 !important;
+}
+
+.vc_custom_1459253963078 .separator,
+.vc_custom_1459268358036 .separator,
+.vc_custom_1458060471484 .separator,
+.vc_custom_1458060471484 .separator,
+.vc_custom_1458060471484 .separator,
+.vc_custom_1458060471484 .separator,
+.vc_custom_1458060471484 .separator,
+.vc_custom_1458060471484 .separator,
+.vc_custom_1458060471484 .separator,
+body .vc_toggle_color_sky.vc_toggle_default .vc_toggle_icon:before,
+body .vc_toggle_color_sky.vc_toggle_default .vc_toggle_icon:after {
+	background-color: #ed4a2f !important;
+}
+
+body .content-area .grid-news article.sticky.type-post .news-summary {
+	border-top-color: #ed4a2f;
+}
+
+.icon-row .animate {
+	color: #ed4a2f !important;
+}
+
+body .cg-primary-menu .menu > li a:before {
+	border-color: #ed4a2f;
+}
+
+body .vc_custom_1464133547254,
+body .vc_custom_1464133561465 {
+	border-left-color: #ed4a2f !important;
+}
